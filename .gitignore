@@ -21,3 +21,14 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+DB/DBScript.sql
+DB/KGP PF Statemaster/823.dat
+DB/KGP PF Statemaster/statemaster data reload.sql
+DB/KGP_IC.db
+DB/KGP_IC.log
+DB/Reload.sql
+DB/Server Start.bat
+FTPGet.txt
+kgp.exe
+*.pbd
+*.opt
